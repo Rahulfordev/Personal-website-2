@@ -1,0 +1,26 @@
+h1,h3{
+  color: #11cab9;
+}
+i{
+  color: #11cab9;
+}
+a{
+  text-decoration: none;
+}
+body{
+  font-family: sans-serif;
+  background-color: #11cab91c;
+}
+td {
+    font-weight: 600;
+}
+li{
+  font-weight: 600;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
